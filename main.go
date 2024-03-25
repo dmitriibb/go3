@@ -9,5 +9,9 @@ func TestHelloWorld() {
 }
 
 func TestByeWorld() {
-	fmt.Println("hello world")
+	fmt.Println("bye world")
+}
+
+func TestByeByeWorld() {
+	fmt.Println("bye bye world")
 }
